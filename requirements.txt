@@ -15,8 +15,16 @@ matplotlib>=3.5.0
 networkx>=2.6.0
 scikit-learn>=1.0.0
 
+# Traffic Simulation
+# sumo-uc>=1.17.0
+traci>=1.17.0
+
+# Additional utilities
+xmltodict>=0.13.0
+lxml>=4.9.0
+
 # Optional: GPU acceleration for quantum
-# pennylane-lightning-gpu>=0.42.0  # Uncomment for GPU quantum simulation
+# pennylane-lightning-gpu  # Uncomment for GPU quantum simulation
 
 # Optional: Real quantum hardware
 # qiskit>=0.43.0

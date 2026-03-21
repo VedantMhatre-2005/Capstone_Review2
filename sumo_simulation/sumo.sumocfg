@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<configuration>
+  <input>
+    <net-file value="sumo_simulation\traffic_network.net.xml"/>
+    <route-files value="sumo_simulation\traffic.rou.xml"/>
+  </input>
+  <time>
+    <begin value="0"/>
+    <end value="3600"/>
+  </time>
+  <output>
+    <tripinfo-output value="sumo_simulation\tripinfo.xml"/>
+    <lanearea-detectors value="sumo_simulation\detectors.xml"/>
+  </output>
+  <gui_only>
+    <gui-settings-file value="sumo_simulation\gui.xml"/>
+  </gui_only>
+</configuration>

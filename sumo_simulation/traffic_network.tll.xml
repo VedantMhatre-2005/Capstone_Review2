@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<tlLogics>
+  <tlLogic id="n0" type="static" programID="default" offset="0">
+    <phase duration="25" state="GGGGGGrrrrr"/>
+    <phase duration="3" state="yyyyyyyyyyy"/>
+  </tlLogic>
+  <tlLogic id="n1" type="static" programID="default" offset="0">
+    <phase duration="25" state="GGGGGGrrrrr"/>
+    <phase duration="3" state="yyyyyyyyyyy"/>
+  </tlLogic>
+  <tlLogic id="n2" type="static" programID="default" offset="0">
+    <phase duration="25" state="GGGGGGrrrrr"/>
+    <phase duration="3" state="yyyyyyyyyyy"/>
+  </tlLogic>
+  <tlLogic id="n3" type="static" programID="default" offset="0">
+    <phase duration="25" state="GGGGGGrrrrr"/>
+    <phase duration="3" state="yyyyyyyyyyy"/>
+  </tlLogic>
+  <tlLogic id="n4" type="static" programID="default" offset="0">
+    <phase duration="25" state="GGGGGGrrrrr"/>
+    <phase duration="3" state="yyyyyyyyyyy"/>
+  </tlLogic>
+  <tlLogic id="n5" type="static" programID="default" offset="0">
+    <phase duration="25" state="GGGGGGrrrrr"/>
+    <phase duration="3" state="yyyyyyyyyyy"/>
+  </tlLogic>
+  <tlLogic id="n6" type="static" programID="default" offset="0">
+    <phase duration="25" state="GGGGGGrrrrr"/>
+    <phase duration="3" state="yyyyyyyyyyy"/>
+  </tlLogic>
+  <tlLogic id="n7" type="static" programID="default" offset="0">
+    <phase duration="25" state="GGGGGGrrrrr"/>
+    <phase duration="3" state="yyyyyyyyyyy"/>
+  </tlLogic>
+  <tlLogic id="n8" type="static" programID="default" offset="0">
+    <phase duration="25" state="GGGGGGrrrrr"/>
+    <phase duration="3" state="yyyyyyyyyyy"/>
+  </tlLogic>
+  <tlLogic id="n9" type="static" programID="default" offset="0">
+    <phase duration="25" state="GGGGGGrrrrr"/>
+    <phase duration="3" state="yyyyyyyyyyy"/>
+  </tlLogic>
+</tlLogics>
