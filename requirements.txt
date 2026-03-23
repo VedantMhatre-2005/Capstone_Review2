@@ -1,7 +1,11 @@
 # Core ML Frameworks
-torch>=2.0.0
+torch>=2.0.0          # Install CUDA 12.1 build: pip install torch --index-url https://download.pytorch.org/whl/cu121
 numpy>=1.21.0
 pandas>=1.3.0
+
+# Computer Vision — CV Pipeline (cv_pipeline.py)
+ultralytics>=8.1.0    # YOLOv8n detection + ByteTrack (included)
+opencv-python>=4.8.0  # Video capture, frame processing
 
 # Quantum Computing
 pennylane>=0.42.0

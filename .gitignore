@@ -1,2 +1,51 @@
-.venv
-.streamlit
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test, type-check, and coverage caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Editor / OS noise
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
+
+# Local app/runtime state
+.streamlit/
+*.log
+
+# Environment/config secrets
+.env
+.env.*
+
+# Generated outputs
+outputs/*.csv
+outputs/*.npz
+
+# Local media/runtime downloads and temp files
+videos/
+ffmpeg/
+mediamtx/
+
+# Model weights
+yolov8n.pt
